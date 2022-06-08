@@ -3,3 +3,5 @@ const chalk = require("chalk");
 
 console.log(getNotes());
 console.log(chalk.yellow.bold("Success!!"));
+
+console.log("Hello World");
